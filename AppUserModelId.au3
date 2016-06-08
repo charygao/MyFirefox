@@ -1,4 +1,4 @@
-<html>#include-once
+#include-once
 ; file name: AppUserModelId.au3
 
 ; #### Title ####

@@ -1,5 +1,4 @@
-<html><head><meta http-equiv=Content-Type content='text/html; charset=utf-8'></head>
-#NoTrayIcon
+﻿#NoTrayIcon
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
 #AutoIt3Wrapper_Icon=firefox.ico
 #AutoIt3Wrapper_Compile_Both=y
